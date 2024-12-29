@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+.vscode/
+*.h5
+*.csv
